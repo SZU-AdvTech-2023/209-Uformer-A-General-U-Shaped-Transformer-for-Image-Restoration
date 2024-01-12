@@ -1,0 +1,7 @@
+@inproceedings{REPO209,
+    author = "Wang, Zhendong and Cun, Xiaodong and Bao, Jianmin and Zhou, Wengang and Liu, Jianzhuang and Li, Houqiang",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    pages = "17683-17693",
+    title = "{Uformer: A General U-Shaped Transformer for Image Restoration}",
+    year = "2022"
+}
